@@ -1,0 +1,156 @@
+NARUTO: CHAKRA, JUTSU, AND SHINOBI ABILITIES
+Canon scope: Naruto and Naruto Shippuden manga continuity, through chapter 700
+Format: Research corpus document for RAGLab
+
+============================================================
+1. CHAKRA: THE BASIS OF SHINOBI TECHNIQUES
+============================================================
+
+Chakra is the energy used by shinobi to perform most ninja techniques. It is produced by combining physical energy, which comes from the body's cells, with spiritual energy, which comes from the mind and experience. A shinobi must learn to control the amount and flow of chakra used for a technique. Having a large supply does not automatically mean that a person has precise control.
+
+Chakra travels through a network of pathways inside the body. The system contains tenketsu, small points through which chakra can be released. The Hyūga clan's Gentle Fist style makes use of these points by striking an opponent's chakra network directly.
+
+A shinobi's chakra reserves and control vary. Training, physical condition, inherited traits, and unusual sources of power can all affect how a person uses chakra. Naruto, for example, has unusually large reserves, while Sakura becomes known for exceptionally precise chakra control.
+
+Chakra can be shaped and used in different ways. It supports basic techniques such as transformation and substitution, as well as complex ninjutsu, genjutsu, and medical techniques. Some abilities require specific hand seals, while others can be performed with fewer or no seals after extensive training.
+
+============================================================
+2. THE FIVE BASIC NATURE TRANSFORMATIONS
+============================================================
+
+The five basic nature transformations are Fire, Wind, Lightning, Earth, and Water Release. A shinobi may have an affinity for one nature, making it easier to learn and perform techniques of that type. Skilled ninja can learn additional nature transformations, although doing so generally requires considerable training.
+
+The five natures interact in a cycle of strengths and weaknesses. In the commonly described relationship, Fire is strong against Wind, Wind against Lightning, Lightning against Earth, Earth against Water, and Water against Fire. These relationships can influence the outcome of a technique clash, but the result also depends on the amount of chakra and skill involved.
+
+Some shinobi combine nature transformations to produce advanced releases. These combinations may be inherited through kekkei genkai or developed through unusual abilities. Wood Release, for example, combines Earth and Water transformations and is strongly associated with Hashirama Senju.
+
+Other advanced nature transformations include Ice Release and Lava Release. Their users demonstrate that elemental abilities can take forms beyond the five basic natures. Not every unusual technique is a nature combination, however; some abilities depend on bodily traits, special training, or other sources of power.
+
+============================================================
+3. THE MAIN CATEGORIES OF JUTSU
+============================================================
+
+Ninjutsu
+
+Ninjutsu is a broad category of techniques that use chakra to produce effects beyond ordinary physical ability. Elemental attacks, clones, barriers, summons, and many other techniques fall into this category. Some ninjutsu are designed for direct combat, while others support movement, communication, tracking, or protection.
+
+The Shadow Clone Technique creates physical copies of the user by dividing chakra among them. Unlike ordinary illusionary copies, shadow clones can interact with the environment. When a clone disappears, its experiences and memories return to the original user. Naruto makes extensive use of this property during training.
+
+Genjutsu
+
+Genjutsu affects an opponent's perception by disrupting the flow of chakra in the target's nervous system. It can create false sights, sounds, sensations, or experiences. A target may be able to escape by disrupting their own chakra flow or receiving help from someone else who can interfere with the technique.
+
+The Sharingan is particularly associated with powerful genjutsu, although genjutsu is not limited to the Uchiha clan. Some techniques can affect many people at once, while others target a single individual. The effectiveness of an illusion depends on the technique and the target's ability to recognize or resist it.
+
+Taijutsu
+
+Taijutsu refers to hand-to-hand combat techniques that rely primarily on physical skill, strength, speed, and conditioning. It does not usually require the complex chakra manipulation associated with ninjutsu. Training in taijutsu can involve repeated physical practice and strict control of movement.
+
+Might Guy and Rock Lee are known for their dedication to taijutsu. The Eight Gates are an extreme method of releasing restrictions placed on the body's chakra system. Opening the gates can greatly increase physical ability, but it places severe strain on the user.
+
+============================================================
+4. CLAN ABILITIES AND KEKKEI GENKAI
+============================================================
+
+Some abilities are passed down through family lines. A kekkei genkai is a special ability generally inherited genetically. It may involve a combination of chakra natures or a distinctive physical trait. These abilities can give a clan a major advantage, but they can also make its members targets in times of conflict.
+
+The Sharingan
+
+The Sharingan is the dōjutsu associated with the Uchiha clan. It can help its user perceive movement, recognize chakra, and copy many techniques after observing them. Its abilities develop through stages, and advanced users can awaken more powerful forms.
+
+The Mangekyō Sharingan grants individual abilities that differ between users. Using its powers can place a heavy burden on the eyes. The Eternal Mangekyō Sharingan is obtained through a particular process involving the eyes of a close relative, and it avoids the progressive loss of eyesight associated with repeated Mangekyō use.
+
+The Byakugan
+
+The Byakugan is the dōjutsu of the Hyūga clan. It provides an almost all-around field of vision, with a small blind spot, and allows the user to see the chakra network and tenketsu. The Hyūga use this visual ability with Gentle Fist techniques to disrupt an opponent's chakra flow.
+
+The Rinnegan
+
+The Rinnegan is a rare and powerful dōjutsu associated with the Sage of Six Paths. Its abilities include access to the Six Paths techniques, which provide a range of powers such as manipulating attractive and repulsive forces, absorbing chakra, and controlling life and death under specific conditions. The exact abilities available to a user can depend on how the eyes were obtained and the user's circumstances.
+
+Other inherited abilities
+
+The Senju clan is associated with strong life force and physical vitality. Hashirama Senju's Wood Release was an exceptional ability that allowed him to create and control plant life, including enormous wooden structures. The ability was not common even among his descendants.
+
+The Hyūga's Gentle Fist is a distinctive fighting style tied to the Byakugan. The Uchiha's Sharingan and the Hyūga's Byakugan are among the best-known examples of inherited visual abilities, but the shinobi world contains other bloodline traits as well.
+
+============================================================
+5. THE EIGHT GATES AND LIMITS OF THE BODY
+============================================================
+
+The Eight Gates are points in the body's chakra system that regulate the flow of chakra and limit the body's output. Opening them removes some of those restrictions, allowing the user to exceed normal physical limits for a period of time.
+
+Each successive gate increases the user's power but also increases the danger. The final gate, the Gate of Death, grants extraordinary strength at the cost of the user's life. The technique is therefore treated as a last resort rather than an ordinary combat method.
+
+Might Guy mastered the Eight Gates through years of training. His use of the final gate during the Fourth Shinobi World War demonstrated both the enormous power of the technique and its destructive cost.
+
+============================================================
+6. MEDICAL NINJUTSU AND SEALING TECHNIQUES
+============================================================
+
+Medical ninjutsu uses chakra to diagnose and treat injuries. Medical ninja need precise chakra control because healing requires careful manipulation rather than simply releasing large amounts of energy. Some medical techniques can accelerate the body's natural healing, while others involve more advanced treatment.
+
+Tsunade is one of the leading medical ninja of her era. She helped establish the importance of having medical ninja in combat units and developed techniques that allow her to store chakra for later use. Sakura trained under Tsunade and became a highly skilled medical ninja.
+
+Sealing techniques, or fūinjutsu, are used to contain, restrict, or store people, objects, and chakra. The Uzumaki clan was particularly well known for its sealing skills. Seals play an important role in containing tailed beasts within jinchūriki and in restricting powerful entities or techniques.
+
+A seal's appearance alone does not explain everything about its function. Different formulas can have different purposes, and some require specific conditions or knowledge to use safely.
+
+============================================================
+7. SUMMONING AND SPACE-TIME TECHNIQUES
+============================================================
+
+The Summoning Technique allows a shinobi to summon an animal or other contracted being, usually by using a blood contract and chakra. The summoned creature can assist in combat, transport, or information gathering. Naruto forms a contract with the toads of Mount Myōboku, while other shinobi have contracts with creatures such as snakes and slugs.
+
+Summoning is not simply a matter of calling any creature. A contract establishes the relationship between the user and the summoned group. The creature's size, abilities, and willingness to cooperate can affect how useful the technique is.
+
+Space-time ninjutsu allows movement or interaction across distance through specialized techniques. The Flying Thunder God Technique, used by Minato Namikaze, allows the user to move instantly to a marked location. Obito's Kamui allows its user to transport parts of the body or other targets to a separate dimension.
+
+These techniques can change the nature of a battle because ordinary distance and obstacles may no longer provide reliable protection. Their use still depends on the technique's specific conditions and limitations.
+
+============================================================
+8. SAGE MODE AND NATURAL ENERGY
+============================================================
+
+Sage Mode is achieved by gathering natural energy and balancing it with the user's physical and spiritual energy. The resulting senjutsu chakra enhances the user's physical abilities and strengthens many techniques. Gathering natural energy requires control; taking in too much can have dangerous consequences.
+
+Training at Mount Myōboku teaches the toad-based form of Sage Mode. Jiraiya learned to use it, although he did not achieve a fully balanced form. Naruto later trained there and developed a more complete version.
+
+Other forms of Sage Mode exist. Kabuto's abilities after his training and modifications demonstrate a different path to using natural energy. The details of each form are not identical, and the user's training environment can influence the result.
+
+============================================================
+9. TAILED BEASTS AND JINCHŪRIKI
+============================================================
+
+The tailed beasts are enormous chakra beings, each with a distinct number of tails and individual characteristics. They were created when Hagoromo Ōtsutsuki divided the Ten-Tails' chakra into nine separate beings. The beasts are not simply weapons; they have their own personalities, memories, and relationships with humans.
+
+A jinchūriki is a person who has a tailed beast sealed inside them. The arrangement can provide access to enormous chakra, but it can also expose the host to fear, discrimination, and the danger of losing control. The relationship between host and beast varies. Some hosts are treated as tools by their villages, while others eventually develop cooperation with their tailed beasts.
+
+Naruto's relationship with Kurama changes over time. Their early interactions are hostile, but they eventually work together. Other jinchūriki have different experiences, and not all achieve the same level of cooperation.
+
+The extraction of a tailed beast from its host is generally fatal to the jinchūriki. Akatsuki's sealing operation made this danger central to its campaign. The connection between a host and their beast can be more complicated than a simple container-and-weapon relationship.
+
+============================================================
+10. NINSHŪ, CHAKRA, AND THE SAGE OF SIX PATHS
+============================================================
+
+Hagoromo Ōtsutsuki, known as the Sage of Six Paths, spread the teachings of Ninshū. His original teachings emphasized understanding and connecting people through chakra. Over generations, the use of chakra developed into the shinobi system of combat techniques.
+
+The history of chakra is connected to Kaguya Ōtsutsuki, Hagoromo, and his sons, Indra and Asura. Their conflict became part of a cycle that continued through later generations. The rivalry between Indra and Asura is reflected in the histories of the Uchiha and Senju, and later in the relationship between Sasuke and Naruto.
+
+The Sage's legacy includes the tailed beasts and the powers associated with the Six Paths. Different characters inherit or obtain parts of this legacy in different ways, and the history is gradually revealed through the story.
+
+============================================================
+11. CORPUS NOTES
+============================================================
+
+- This document follows Naruto and Naruto Shippuden manga continuity only, through the final Naruto manga chapter (chapter 700).
+- Boruto-era events and anime-only filler are outside the scope.
+- This is an overview of major systems and abilities, not a complete catalogue of every named technique.
+- Some abilities are described at a high level; their individual users, battles, and historical context may be covered in other corpus documents.
+- When comparing techniques, distinguish between a character's chakra reserves, chakra control, nature affinity, inherited abilities, and learned skills. They are related but not interchangeable.
+- Use the manga as the authority when details differ between manga, anime, guide material, or later adaptations.
+
+Reference starting points for verification:
+- VIZ Media, Naruto manga series: https://www.viz.com/naruto
+- Naruto official website: https://naruto-official.com/en

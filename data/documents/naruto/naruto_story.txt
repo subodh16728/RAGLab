@@ -1,0 +1,128 @@
+NARUTO: STORY, EVENTS, AND CHRONOLOGY
+Canon scope: Naruto and Naruto Shippuden manga continuity, through chapter 700
+Format: Research corpus document for RAGLab
+
+============================================================
+1. BEFORE THE MAIN STORY
+============================================================
+
+Long before Naruto Uzumaki was born, the shinobi world was shaped by conflict between powerful clans. The Senju and Uchiha were among the strongest. Hashirama Senju and Madara Uchiha eventually worked toward ending the cycle of clan warfare by founding Konohagakure. Their vision did not last without conflict. Disagreements over leadership and the future of the village drove Madara away from Konoha, and the two former allies later fought at the Valley of the End.
+
+Generations later, the village system had become established across the great nations. The villages fought several large wars, and the consequences of those wars shaped the lives of people who would become important in Naruto's generation.
+
+The Nine-Tails, Kurama, attacked Konohagakure on the night Naruto was born. Minato Namikaze, the Fourth Hokage, and Kushina Uzumaki died while protecting the village and sealing the beast inside their newborn son. Naruto grew up without knowing the full circumstances of his parents' deaths. Many villagers feared him because they associated him with the Nine-Tails.
+
+============================================================
+2. NARUTO'S EARLY YEARS AND TEAM 7
+============================================================
+
+Naruto grew up as an orphan and struggled to gain recognition from the people of Konoha. He often played pranks to attract attention. Iruka Umino, one of his Academy instructors, became an important early source of support. Naruto eventually graduated from the Academy after demonstrating his ability to use the Multi Shadow Clone Technique.
+
+Naruto was assigned to Team 7 with Sasuke Uchiha and Sakura Haruno, under the leadership of Kakashi Hatake. Their first major test was the bell exercise, which taught them that teamwork mattered more than individual success.
+
+The team's first major mission outside the village took them to the Land of Waves. They were assigned to protect Tazuna, a bridge builder, from threats connected to the criminal Gato. The mission brought them into conflict with Zabuza Momochi and Haku. Naruto's encounter with Haku challenged his assumptions about what it meant to be a ninja and showed him that enemies could have deeply personal reasons for fighting.
+
+After returning to Konoha, Team 7 took part in the Chūnin Exams. The exams brought together young ninja from several villages and became a setting for rivalries, alliances, and a larger attack planned by Orochimaru. Sasuke was marked with a curse seal, and the invasion of Konoha resulted in the death of the Third Hokage.
+
+============================================================
+3. SEARCHING FOR A NEW HOKAGE
+============================================================
+
+After the Third Hokage's death, Konoha needed a new leader. Naruto travelled with Jiraiya to find Tsunade, one of the legendary Sannin. During the journey, Naruto continued developing the Rasengan, a technique created by the Fourth Hokage and taught to him by Jiraiya.
+
+Tsunade initially resisted the idea of becoming Hokage. Her experiences with loss had left her unwilling to return to the responsibilities of village leadership. Naruto's determination affected her decision, and she eventually accepted the position of Fifth Hokage.
+
+Meanwhile, Sasuke became increasingly dissatisfied with his progress. His rivalry with Naruto and his desire for power were intensified by the return of Itachi, who reminded Sasuke of the gap between his current strength and the person he wanted to defeat. Sasuke eventually left Konoha to seek power from Orochimaru.
+
+A retrieval team led by Shikamaru pursued Sasuke. The mission ended without bringing him home. Naruto fought Sasuke at the Valley of the End, but Sasuke chose to leave. Naruto returned to the village having failed to keep his promise to Sakura.
+
+============================================================
+4. TRAINING AND THE RETURN OF AKATSUKI
+============================================================
+
+Naruto left the village with Jiraiya for an extended period of training. During this time, the Akatsuki continued its campaign to capture the tailed beasts. The organization targeted jinchūriki across the shinobi world, bringing its activities into direct conflict with the hidden villages.
+
+After Naruto returned, Team Kakashi was re-formed with new members and responsibilities. The group encountered Akatsuki members, including Deidara and Sasori. Gaara, who had become the Fifth Kazekage, was captured by Akatsuki. Naruto and his allies pursued the kidnappers, but Gaara died after the tailed beast was extracted from him. Chiyo used a life-restoring technique to bring him back.
+
+The pursuit of Sasuke continued alongside the conflict with Akatsuki. Naruto's team eventually found Sasuke, but he had grown stronger under Orochimaru and remained unwilling to return. The search for Sasuke became tied to the wider questions surrounding the Uchiha clan and Itachi's actions.
+
+============================================================
+5. JIRAIYA, PAIN, AND THE TRUTH ABOUT THE PAST
+============================================================
+
+Jiraiya investigated the leader of Akatsuki and travelled to Amegakure. He discovered that the enemy known as Pain used multiple bodies and possessed powerful abilities. Jiraiya was killed during the mission, but he sent information to Konoha before his death.
+
+Pain later launched an assault on Konoha. The village was devastated, and many of its residents were killed or injured. Naruto returned after training in Sage Mode and fought Pain. Their confrontation continued beyond the battlefield when Naruto spoke with Nagato, the person behind Pain's bodies.
+
+Nagato had experienced war and personal loss in Amegakure. His understanding of peace had become tied to making the world experience pain on a scale so great that it would discourage future conflict. Naruto refused to accept that repeating hatred was the answer. Nagato ultimately used a technique to revive those killed during the attack, sacrificing his own life.
+
+Naruto's actions changed how many villagers saw him. The person once feared because of the Nine-Tails had become someone the village could rely on.
+
+============================================================
+6. THE UCHIHA HISTORY AND SASUKE'S CHOICE
+============================================================
+
+Sasuke's search for the truth about Itachi led him to confront his brother. After their battle, Sasuke learned that Itachi's actions had been connected to a secret decision made by Konoha's leadership during the Uchiha crisis. Itachi had accepted responsibility for the massacre and had lived as a criminal in order to protect the village and Sasuke.
+
+The revelation changed Sasuke's understanding of his brother and of Konoha. His desire for revenge shifted toward the village and the people he believed had caused the tragedy. He joined forces with individuals who could help him pursue that goal.
+
+The history of the Uchiha clan became part of a much larger conflict involving the village system, the legacy of Madara, and the person operating behind the Akatsuki plan. Sasuke's choices increasingly placed him against Naruto and the other leaders of the shinobi world.
+
+============================================================
+7. THE FIVE KAGE SUMMIT AND THE FOURTH WAR
+============================================================
+
+As Akatsuki's campaign continued, the five Kage gathered at a summit in the Land of Iron. Sasuke and his allies attacked during the meeting. Tobi then declared war on the five great shinobi nations after the Kage refused to surrender the remaining tailed beasts.
+
+The villages formed the Allied Shinobi Forces. Former rivals were required to fight together against a common enemy. The war involved reanimated shinobi brought back through Kabuto's Reanimation Jutsu, as well as the forces led by Tobi.
+
+Naruto and Killer B became central to the effort to protect the remaining jinchūriki. Naruto eventually gained cooperation from Kurama, changing the nature of their relationship. The war also brought revelations about Tobi's identity and the events that had shaped his choices.
+
+Madara Uchiha returned to the battlefield and became one of the alliance's greatest threats. The conflict escalated around the Ten-Tails and the plan to cast the Infinite Tsukuyomi. The history of chakra, the Sage of Six Paths, and Kaguya Ōtsutsuki became central to the final stages of the war.
+
+Team 7 reunited during the conflict. Naruto, Sasuke, Sakura, and Kakashi fought together against the threats that emerged. The final confrontation involved Kaguya, whose power and connection to the origin of chakra had been revealed only late in the story.
+
+============================================================
+8. THE FINAL CONFRONTATION AND AFTERMATH
+============================================================
+
+After the larger war ended, Naruto and Sasuke still disagreed about how the shinobi world should be changed. Sasuke wanted to take control of the world's systems and bear its hatred himself. Naruto believed that lasting change required people to understand one another rather than being ruled through fear.
+
+The two fought at the Valley of the End, repeating the location of the earlier battle between Hashirama and Madara. Both lost an arm during the fight. Their battle ended with Sasuke acknowledging Naruto and abandoning his plan.
+
+The war's end created an opportunity for the villages to move toward cooperation. Naruto's role in the conflict and his relationships with people across the nations helped establish his reputation. The story's final chapter shows a later period in which Naruto has become the Seventh Hokage and the next generation is growing up in a changed shinobi world.
+
+============================================================
+9. THEMES THAT CONNECT THE STORY
+============================================================
+
+The cycle of hatred
+
+Many major conflicts begin with suffering that is passed from one generation to another. Sasuke's revenge, Nagato's actions, Obito's plan, and Madara's worldview all emerge from different experiences of loss and disappointment. Naruto repeatedly tries to interrupt this cycle by understanding people whose choices have caused harm.
+
+Recognition and loneliness
+
+Naruto's early desire for recognition is connected to the loneliness he experiences as a child. Other characters respond to isolation in different ways. Gaara becomes violent, Sasuke becomes consumed by revenge, and Nagato develops a philosophy built around shared suffering. Their stories create contrasts with Naruto's response to being rejected.
+
+The meaning of being a shinobi
+
+The story repeatedly questions whether a ninja should follow orders without question, protect a village at any cost, or make independent moral choices. Kakashi, Itachi, and the Sannin each carry different experiences of the shinobi system. Their decisions affect younger characters and influence how the next generation understands duty.
+
+Inherited conflict and personal choice
+
+The history of Indra and Asura suggests that conflict can repeat across generations. Naruto and Sasuke inherit parts of this history, but their final choices show that the past does not have to determine every future action.
+
+============================================================
+10. CORPUS NOTES
+============================================================
+
+- This document follows Naruto and Naruto Shippuden manga continuity only, through the final Naruto manga chapter (chapter 700).
+- Boruto-era events and anime-only filler are outside the scope.
+- This is a broad story overview, not a chapter-by-chapter synopsis.
+- It intentionally summarizes some events without including every tactical detail, conversation, or character motivation. Other corpus documents may contain additional context.
+- Treat the order of events as a broad narrative sequence; this document is not intended to provide exact dates or a complete chronology.
+- Use the manga as the authority when details differ between manga, anime, guide material, or later adaptations.
+
+Reference starting points for verification:
+- VIZ Media, Naruto manga series: https://www.viz.com/naruto
+- Naruto official website: https://naruto-official.com/en

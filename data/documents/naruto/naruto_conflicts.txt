@@ -1,0 +1,147 @@
+NARUTO: CONFLICTS, WARS, AND ORGANIZATIONS
+Canon scope: Naruto and Naruto Shippuden manga continuity, through chapter 700
+Format: Research corpus document for RAGLab
+
+============================================================
+1. CONFLICT IN THE SHINOBI WORLD
+============================================================
+
+Conflict is built into the political and economic structure of the shinobi world. The great hidden villages serve powerful countries, and their ninja are hired for missions that range from ordinary escort work to assassination and military operations. A village's strength affects the standing of the country it serves. When missions become scarce or political relationships deteriorate, villages can face pressure to prove their military value.
+
+The system did not begin with the hidden villages. Before their creation, clans fought one another for generations. Children could be sent into battle at very young ages, and rival families often treated one another as inherited enemies. The founding of Konohagakure changed the structure of that conflict, but it did not remove the reasons villages competed: territory, influence, resources, security, and the fear that another village might become too powerful.
+
+The Five Great Shinobi Countries each developed a hidden village led by a Kage. These villages could cooperate when facing a shared threat, but their interests did not always align. Alliances were often shaped by recent wars, leadership changes, and the balance of power between countries.
+
+============================================================
+2. THE SHINOBI WORLD WARS
+============================================================
+
+The First Shinobi World War
+
+The First Shinobi World War took place after the hidden-village system had been established. The villages were still relatively new, and disputes over power and territory escalated into a large conflict. The war involved the major shinobi nations and left lasting consequences for their leadership and relationships.
+
+The conflict contributed to a period of instability in which the next generation of shinobi inherited a world that had not achieved lasting peace. The exact experiences of individual villages differed, and the consequences were not limited to the battlefield.
+
+The Second Shinobi World War
+
+The Second Shinobi World War occurred years later. Amegakure, a small village positioned between larger powers, became a major battleground. Its people suffered heavily as larger nations fought across its territory. The war is closely associated with the rise of several figures who would later shape the history of the shinobi world.
+
+During this period, Hanzō of the Salamander was a feared leader of Amegakure. His encounter with three young Konoha ninja—Jiraiya, Tsunade, and Orochimaru—earned them the name Sannin. The title became famous, but the war's impact on Amegakure continued long after that meeting.
+
+The conflict also formed part of the background to the lives of Yahiko, Nagato, and Konan. They grew up amid destruction and loss. Their early experiences shaped their desire to change the system that repeatedly turned smaller countries into battlefields.
+
+The Third Shinobi World War
+
+The Third Shinobi World War was fought while the major villages were again competing for military advantage. It produced a generation of young shinobi whose reputations were formed under extreme conditions. The conflict is remembered through battles and missions involving figures such as Minato Namikaze, Kakashi Hatake, and the young members of Team Minato.
+
+One event associated with the war was the destruction of the Kannabi Bridge, a mission intended to disrupt the enemy's supply route. Kakashi, Obito, and Rin were assigned to the operation under difficult circumstances. The mission became a turning point in the lives of the three teammates and in Kakashi's development as a ninja.
+
+Minato's actions during the war helped establish his reputation and contributed to his later appointment as the Fourth Hokage. The war also demonstrated how quickly a tactical operation could become a personal tragedy for the people involved.
+
+The Fourth Shinobi World War
+
+The Fourth Shinobi World War began after Tobi declared war on the Five Great Shinobi Countries and the Land of Iron. His demand for the Eight-Tails and Nine-Tails was rejected. The five great villages formed the Allied Shinobi Forces, placing shinobi who had previously fought one another under a shared command structure.
+
+The alliance was divided into combat divisions with different responsibilities. Gaara became the overall commander of the Allied Shinobi Forces, while other experienced ninja led the divisions in the field. The alliance also included a medical support division and a sensor division.
+
+Kabuto Yakushi strengthened the opposing side through Reanimation Jutsu, bringing many deceased shinobi back to life. The reanimated fighters included former Kage, renowned ninja, and people with personal connections to members of the Allied Forces. The battlefield therefore became both a military confrontation and a series of encounters with the past.
+
+The war changed direction as the Ten-Tails became central to the conflict. Obito and Madara pursued the plan known as the Eye of the Moon Plan, which aimed to place the world under an illusion. The struggle eventually expanded beyond the original alliance-versus-Akatsuki conflict and involved the origins of chakra and the history of the Sage of Six Paths.
+
+============================================================
+3. THE AKATSUKI
+============================================================
+
+The Akatsuki did not begin as the organization most of the shinobi world came to fear. Its early form emerged in Amegakure during a period of war and suffering. Yahiko, Nagato, and Konan were among the people who wanted to end the cycle of violence affecting their country. Yahiko became the group's public leader, and the original organization sought political change rather than the capture of tailed beasts.
+
+The group's growth attracted attention from Hanzō, who viewed it as a threat to his authority. A meeting involving Hanzō and Konoha's Danzō Shimura turned into a trap. Yahiko died during the incident, and Nagato's response changed the direction of the organization. The Akatsuki that later operated across the shinobi world was shaped by Nagato's leadership and by the influence working behind him.
+
+In its later form, Akatsuki became an international criminal organization whose members were generally powerful missing-nin. Its members were organized into pairs and wore black cloaks patterned with red clouds. The group pursued the tailed beasts, extracting and sealing them as part of a larger plan. Its operations included infiltration, intelligence gathering, capture missions, and direct attacks on villages.
+
+The red cloud symbol had a history connected to the suffering of Amegakure. Over time, however, it became associated across the nations with the organization's later activities.
+
+Members and operations
+
+The organization included individuals with very different backgrounds and motives. Itachi Uchiha and Kisame Hoshigaki operated as a pair. Deidara and Sasori were another pair, combining different approaches to combat and art. Hidan and Kakuzu worked together despite their incompatible personalities. Later operations involved Tobi, who initially presented himself in a very different manner from the figure directing the larger plan.
+
+Orochimaru was once associated with Akatsuki but left the organization. His interest in acquiring powerful abilities and bodies did not align neatly with the goals of the other members.
+
+The capture of a tailed beast was not a simple matter of defeating its jinchūriki. The organization needed to extract the beast and seal it in the Demonic Statue of the Outer Path. The extraction process could be fatal to the host. Akatsuki's campaign gradually brought the hidden villages into direct conflict with the group, especially as the number of captured beasts increased.
+
+The organization suffered losses as its members were defeated or killed. Even when an individual member's immediate objective was personal, their actions could advance the organization's wider campaign.
+
+============================================================
+4. THE DESTRUCTION OF KONOHA AND THE SEARCH FOR SASUKE
+============================================================
+
+The Konoha Crush
+
+During the Chūnin Exams, Orochimaru used the event as an opportunity to attack Konohagakure. The operation involved a coordinated assault by forces from the Sand and Sound villages. The attack exposed the village's vulnerability during a major public event and led to a battle between the Third Hokage, Hiruzen Sarutobi, and Orochimaru.
+
+The Third Hokage died during the invasion. The Sand village later recognized that it had been manipulated by Orochimaru, and the conflict between the two villages was resolved. The attack also accelerated the search for a new Hokage.
+
+The Sasuke Retrieval Mission
+
+After learning more about the power he could gain from Orochimaru, Sasuke Uchiha left Konoha. A team of young ninja was assembled to bring him back. Shikamaru Nara led the group, which included Naruto Uzumaki, Neji Hyūga, Kiba Inuzuka, and Chōji Akimichi. They were later supported by members of the Sand village.
+
+The pursuit became a sequence of separate battles against members of the Sound Four and their allies. The mission placed the young ninja in situations that tested their teamwork and individual limits. Naruto eventually caught up with Sasuke at the Valley of the End, where the two fought. Sasuke chose to continue toward Orochimaru rather than return to the village.
+
+============================================================
+5. PAIN'S ASSAULT AND THE FIVE KAGE SUMMIT
+============================================================
+
+Pain's Assault
+
+After Jiraiya investigated Akatsuki's activities in Amegakure, he confronted Pain and discovered that the enemy's power involved multiple bodies. Jiraiya was killed during the mission, but he managed to send information back to Konoha.
+
+Pain later attacked Konohagakure while searching for Naruto. The assault caused widespread destruction and overwhelmed the village's defenders. Naruto returned after training at Mount Myōboku and confronted Pain. Their battle became a public turning point in how the village viewed Naruto.
+
+Naruto's conversation with Nagato was as important as the fight itself. Nagato explained the experiences that had shaped his understanding of pain and revenge. Naruto rejected the idea that repeating violence could create lasting peace. Nagato ultimately chose to use a technique that restored the lives lost in the attack, at the cost of his own life.
+
+The Five Kage Summit
+
+The Five Kage Summit was convened in the Land of Iron as the threat posed by Akatsuki escalated. The leaders of the five great hidden villages gathered to discuss a response. The meeting exposed mistrust between the villages, including disagreements over past actions and the handling of jinchūriki.
+
+Sasuke and members of Taka attacked the summit while pursuing their own objectives. The confrontation intensified the conflict between Sasuke and the major villages. During the summit, Tobi revealed more of his plan and declared the Fourth Shinobi World War after the Kage refused his demand to hand over the remaining tailed beasts.
+
+============================================================
+6. THE FOURTH WAR: MAJOR TURNING POINTS
+============================================================
+
+The Allied Shinobi Forces faced two connected threats: the reanimated shinobi controlled by Kabuto and the forces assembled by Tobi. The war required cooperation between villages that had spent generations treating one another as enemies. For many participants, fighting alongside former rivals was an unfamiliar experience.
+
+The reanimated shinobi were eventually released from the technique controlling them. Some of the battles ended through combat, while others required the living to confront the emotional consequences of seeing people from their past return. Itachi's encounter with Sasuke and his confrontation with Kabuto were among the events that affected the course of the war.
+
+Obito's identity and history became central to the conflict. His actions were connected to the events surrounding Rin's death and to his disillusionment with the shinobi world. Naruto challenged Obito's beliefs, particularly his claim that the world could only be escaped through the Infinite Tsukuyomi.
+
+Madara became a direct battlefield threat after his return through Reanimation Jutsu and subsequent revival. His power forced the alliance into a defensive struggle. The Ten-Tails' emergence further changed the scale of the war, and the battlefield became the setting for events tied to the Sage of Six Paths.
+
+The conflict eventually reached a point where the original plan was no longer controlled by the people who had set it in motion. Kaguya Ōtsutsuki appeared as the larger threat, and Team 7—Naruto, Sasuke, Sakura, and Kakashi—played a decisive role in the final confrontation.
+
+After the war, Naruto and Sasuke fought one final battle at the Valley of the End. Their conflict was personal, but it also represented two different ideas about how the shinobi world should be changed. Both survived, and the fighting between them ended.
+
+============================================================
+7. OTHER CONFLICTS AND REPEATED PATTERNS
+============================================================
+
+The relationship between the great villages was rarely simple. A village could be an enemy in one war and an ally in another. The Sand and Leaf villages, for example, moved from conflict during the Konoha Crush to cooperation in later events. The Allied Shinobi Forces represented a much larger version of that shift.
+
+The smaller countries often experienced the consequences of decisions made by larger powers. Amegakure's history is one example: it repeatedly became a battlefield despite not being one of the five great shinobi nations. The lives of Yahiko, Nagato, and Konan were shaped by this imbalance.
+
+Personal conflicts also reflected larger political problems. Sasuke's pursuit of revenge was tied to the history of the Uchiha clan and Konoha's leadership. Gaara's early violence was connected to the way his village treated him as a jinchūriki. Naruto's experiences gave him a different understanding of isolation, but did not make the political problems of the shinobi world disappear automatically.
+
+Several conflicts in the story end through a change in understanding rather than the defeat of an opponent alone. Naruto's encounters with Gaara, Nagato, and Obito each challenged the beliefs that had driven those characters. This pattern does not mean that every conflict was resolved peacefully; many battles ended with death, lasting injury, or consequences that continued beyond the immediate event.
+
+============================================================
+8. CORPUS NOTES
+============================================================
+
+- This document follows Naruto and Naruto Shippuden manga continuity only, through the final Naruto manga chapter (chapter 700).
+- Boruto-era events and anime-only filler are outside the scope.
+- The document is a narrative overview, not a complete battle log or exhaustive chronology.
+- Some events are described from the perspective of their effect on the wider conflict; individual tactics and personal histories are covered in greater depth in other corpus documents.
+- Use the manga as the authority when details differ between manga, anime, guide material, or later adaptations.
+
+Reference starting points for verification:
+- VIZ Media, Naruto manga series: https://www.viz.com/naruto
+- Naruto official website: https://naruto-official.com/en
